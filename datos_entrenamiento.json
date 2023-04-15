@@ -1,0 +1,78 @@
+{
+    "preguntas": [
+        {
+            "id": 1,
+            "texto": "Hola"
+        },
+        {
+            "id": 2,
+            "texto": "hola"
+        },
+        {
+            "id": 3,
+            "texto": "Cual es el precio?"
+        },
+        {
+            "id": 4,
+            "texto": "Que precio tiene?"
+        },
+        {
+            "id": 5,
+            "texto": "Deseo uno"
+        },
+        {
+            "id": 6,
+            "texto": "Anotame uno"
+        },
+        {
+            "id": 7,
+            "texto": "Quiero uno"
+        },
+        {
+            "id": 8,
+            "texto": "Hacen envios?"
+        },
+        {
+            "id": 9,
+            "texto": "Cuanto es el envio?"
+        }
+    ],
+    "respuestas": [
+        {
+            "id": 1,
+            "texto": "Hola!, gracias por comunicarte con Walcakes. ¿En que podemos servirte?"
+        },
+        {
+            "id": 2,
+            "texto": "Hola!, gracias por comunicarte con Walcakes. ¿En que podemos servirte?"
+        },
+        {
+            "id": 3,
+            "texto": "El precio de nuestros Box's son los siguientes: | Caja Grande 10$ | Box personal 5.99$ | Box Basiquito 4.50$ | Antojito 3.99$ |"
+        },
+        {
+            "id": 4,
+            "texto": "El precio de nuestros Box's son los siguientes: | Caja Grande 10$ | Box personal 5.99$ | Box Basiquito 4.50$ | Antojito 3.99$ |"
+        },
+        {
+            "id": 5,
+            "texto": "Por supuesto, cual deseas?"
+        },
+        {
+            "id": 6,
+            "texto": "Por supuesto, cual deseas?"
+        },
+        {
+            "id": 7,
+            "texto": "Por supuesto, cual deseas?"
+        },
+        {
+            "id": 8,
+            "texto": "Hacemos envios a La Chorrera, Nuevo Arraijan (y áreas aledañas), y en la ciudad (Albrook y estaciones del metro)"
+        },
+        {
+            "id": 9,
+            "texto":  "El precio envio depende del area a la cual quieres que llevemos tu pedido"
+        }
+    ]
+}
